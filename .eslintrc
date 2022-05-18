@@ -4,7 +4,8 @@
     "jest": true
   },
   "globals": {
-    "document": true
+    "document": true,
+    "window": true
   },
   "parserOptions": {
     "ecmaVersion": 11
@@ -23,9 +24,15 @@
         "unnamedComponents": "arrow-function"
       }
     ],
+    "no-unused-vars": "warn",
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "object-shorthand": "off",
     "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
-    "import/prefer-default-export": "off"
+    "react/button-has-type": "off",
+    "import/prefer-default-export": "off",
+    "import/no-unresolved": "off",
+    "dot-notation": "off"
   },
   "settings": {
     "import/resolver": {
