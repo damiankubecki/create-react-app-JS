@@ -31,7 +31,6 @@
     "react/jsx-props-no-spreading": "off",
     "react/button-has-type": "off",
     "import/prefer-default-export": "off",
-    "import/no-unresolved": "off",
     "dot-notation": "off",
     "default-param-last": "off",
     "no-param-reassign": ["error", { "props": false }],
