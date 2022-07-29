@@ -1,3 +1,10 @@
+<p align="center">Create React App skonfigurowany i przygotowany do pracy z:</p>
+**<p align="center"> ESLint | prettier | lint-staged | husky | react-responsive | styled-components </p>**
+<hr>
+<p align="center">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
